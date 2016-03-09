@@ -1,0 +1,105 @@
+/* HTML - BODY */
+p{
+	font-size:0.875rem;
+}
+/* Header */
+.gantry-logo img {
+    width: 275px;
+}
+#g-header .g-content {
+    margin: 0.5rem;
+    padding: 0;
+}
+/* Navigation */
+.g-main-nav .g-toplevel {
+    font-weight: 100;
+}
+.g-main-nav ul.g-toplevel > li > a{
+    text-transform: uppercase;
+}
+#g-navigation a {
+	padding: 0.5rem 0.938rem;
+}
+#g-navigation .g-content{
+	padding: 0.9rem 1rem 0.4rem;
+}
+/* Buscador */
+.buscador {
+    text-align: center;
+}
+#mod-search-searchword {
+    border: 5px solid #d5d5d5;
+    border-radius: 5px;
+    height: 40px;
+    width: 50%;
+}
+.buscador button {
+    font-size: 1.2em;
+    height: 58px;
+    width: 25%;
+}
+/* Ruta */
+.ruta .g-content{
+	margin: 0.7rem;
+	padding: 0;
+}
+/* Main */
+#g-main{
+	padding: 0;
+}
+.contenido{
+
+}
+.g-content {
+    margin: 0.625rem;
+    padding: 0 0.938rem;
+}
+/* Noticias GK5*/
+.noticias-inicio{}
+.nspArt h4.nspHeader{
+	font-size: 1rem;
+	padding-bottom: 0;
+}
+p.nspInfo{
+	margin:0;
+	font-size: 0.75rem;
+}
+/* Bottom 1 */
+#g-bottom-1 .servicios li{
+	width: 50%;
+	float: left;
+}
+#g-bottom-1 a:hover{
+	color: #4d4d4d;
+}
+#g-bottom-1 h3{
+	font-size: 1.3rem;
+}
+#g-bottom-1 {
+	font-size: 0.85rem;
+}
+/* Footer */
+#g-footer{
+	background: #ef6c00;
+	color: #fff;
+	font-size: 0.85rem;
+}
+#g-footer .g-content {
+	padding:0.2rem; 
+	margin:0.2rem;
+}
+#g-footer a, #g-footer h3, #g-footer strong{
+	color: #fff;
+}
+#g-footer a:hover{
+	color: #4d4d4d;
+}
+/* Modulo cookie */
+#ca_banner h2, #ca_banner div, #ca_banner p{
+  text-aling:center;
+  display:inline;
+  margin-right:10px;
+} 
+#ca_banner{
+	height:auto!important;
+}
